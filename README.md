@@ -1,24 +1,23 @@
 ---
-cover: >-
-  https://github.com/DawnTeamMC/dawnteammc.github.io/blob/main/promenade/images/screenshots/pink_cherry_oak_forest.png?raw=true
-coverY: 0
+cover: .gitbook/assets/pink_cherry_oak_forest.png
+coverY: 35.8041958041958
+layout: landing
 ---
 
-# Content
+# 🏠 Home
 
-## World Generation
+{% content-ref url="world-generation/" %}
+[world-generation](world-generation/)
+{% endcontent-ref %}
 
-{% hint style="danger" %}
-**Due to a missing Fabric API module, Promenade v2.5.0 and higher versions require** [**TerraBlender**](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric) **to be installed for overworld biomes to appear in your world.**
-{% endhint %}
+{% content-ref url="animals.md" %}
+[animals.md](animals.md)
+{% endcontent-ref %}
 
-## Animals
+{% content-ref url="monsters.md" %}
+[monsters.md](monsters.md)
+{% endcontent-ref %}
 
-
-
-## Monsters
-
-
-
-## Blocks
-
+{% content-ref url="blocks.md" %}
+[blocks.md](blocks.md)
+{% endcontent-ref %}
