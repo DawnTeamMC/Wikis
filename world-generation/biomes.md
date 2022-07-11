@@ -1,8 +1,12 @@
 # Biomes
 
+{% hint style="warning" %}
+**Due to a missing Fabric API module, Promenade v2.5.0 and higher versions require** [**TerraBlender**](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric) **to be installed for overworld biomes to appear in your world.**
+{% endhint %}
+
 ## Cherry Oak Forests
 
-Inspired by the beautiful and worldwide-known sakura trees, this flourishing pink and white biome is home to the new [**cherry oak wood type**](../blocks.md#cherry-oak). 🌸
+Inspired by the beautiful and worldwide-known sakura trees (or cherry blossoms), this flourishing pink and white biome is a peaceful home to the new [**cherry oak wood type**](../blocks.md#cherry-oak) and japanese-inspired natural decoration. 🌸
 
 ![](../.gitbook/assets/pink\_cherry\_oak\_forest.png)
 

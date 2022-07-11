@@ -1,8 +1,10 @@
 # 🦆 Animals
 
-## Birds
+{% hint style="info" %}
+You can toggle the natural spawning of any animal in the mod's configuration.
+{% endhint %}
 
-### Ducks
+## Ducks
 
 The ducks are webbed birds that fall slower than other animals. They like to eat seeds. It will drop feathers and duck food upon dying. 🦆
 
@@ -17,4 +19,3 @@ There are 2 variants of the duck:
 
 These types are stored in the duck's NBT tag (for example: `{Type: "mallard"}`)
 
-You can always disable their natural spawning in the mod's configuration.

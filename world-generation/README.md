@@ -1,5 +1,13 @@
 # 🌳 World Generation
 
-{% hint style="danger" %}
-**Due to a missing Fabric API module, Promenade v2.5.0 and higher versions require** [**TerraBlender**](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric) **to be installed for overworld biomes to appear in your world.**
-{% endhint %}
+{% content-ref url="biomes.md" %}
+[biomes.md](biomes.md)
+{% endcontent-ref %}
+
+{% content-ref url="structures.md" %}
+[structures.md](structures.md)
+{% endcontent-ref %}
+
+{% content-ref url="other.md" %}
+[other.md](other.md)
+{% endcontent-ref %}
