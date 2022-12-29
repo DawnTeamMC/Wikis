@@ -4,11 +4,15 @@
 **Due to a missing Fabric API module, Promenade v2.5.0 and higher versions require** [**TerraBlender**](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric) **to be installed for overworld biomes to appear in your world.**
 {% endhint %}
 
+{% hint style="info" %}
+You can change the natural spawning frequency of any biome in the mod's configuration.
+{% endhint %}
+
 ## Cherry Oak Forests
 
 Inspired by the beautiful and worldwide-known sakura trees (or cherry blossoms), this flourishing pink and white biome is a peaceful home to the new [**cherry oak wood type**](../blocks.md#cherry-oak) and japanese-inspired natural decoration. 🌸
 
-![](../.gitbook/assets/pink\_cherry\_oak\_forest.png)
+<figure><img src="../.gitbook/assets/pink_cherry_oak_forest.png" alt=""><figcaption><p>In-game screenshot of a pink cherry oak forest</p></figcaption></figure>
 
 #### Details
 
@@ -17,52 +21,31 @@ There are 2 variants of this biome:
 * **Pink Cherry Oak Forest** (`promenade:pink_cherry_oak_forest`)
   * Has more pink trees than white trees.
   * Has patches of pink leaf piles.
-  * Has patches of pink and magenta mushrooms.
 * **White Cherry Oak Forest** (`promenade:white_cherry_oak_forest`)
   * Has more white trees than pink trees.
   * Has patches of white leaf piles.
-  * Has patches of white and light gray mushrooms.
 
 They both generate in the Overworld as frequently as normal forests, but this frequency can be changed in the mod's configuration.
 
-## Pumpkin Pastures
+## Carnelian Treeway
 
-Originally from _Minecraft Dungeons_, the Pumpkin Pastures are fields of **autumnal vegetation** with more beehives and patches of pumpkins than usual. 🍂
+<figure><img src="../.gitbook/assets/carnelian_treeway.png" alt=""><figcaption><p>In-game screenshot of a carnelian treeway</p></figcaption></figure>
 
-![](../.gitbook/assets/pumpkin\_pastures.png)
+This colorful forest is inspired by the greatest maple forests in the autumn season. Bees prefer living their life here for the coziness of the trees and the calm environment. When you strip a natural maple log, you have a 10% chance to find **syrup** drooling on its side. You can also transform maple logs into [**maple wood blocks**](../blocks.md#maple). 🍁
 
 #### Details
 
 There is only 1 variant of this biome:
 
-* **Pumpkin Pastures** (`promenade:pumpkin_pastures`)
+* **Carnelian Treeway** (`promenade:carnelian_treeway`)
 
 It generates in the Overworld as frequently as normal forests, but this frequency can be changed in the mod's configuration.
 
-## Nether Galleries
-
-These biomes are new variants of the Nether Wastes with huge mushrooms on the floor and the ceiling. 🍄
-
-#### Details
-
-There are 3 variants of the biome:
-
-* **Tritanopian Gallery** (`promenade:tritanopian_gallery`)
-  * Has patches of pink and cyan mushrooms.
-  * Has huge pink and cyan mushrooms on the floor and the ceiling.
-* **Achromatopsian Gallery** (`promenade:achromatopsian_gallery`)
-  * Has patches of white, light gray, gray and black mushrooms.
-  * Has huge black and gray mushrooms on the floor.
-  * Has huge white and light gray mushrooms on the ceiling.
-* **Protanopian Gallery** (`promenade:protanopian_gallery`)
-  * Has patches of white, light gray, gray and black mushrooms.
-  * Has huge brown, yellow and blue mushrooms on the floor and the ceiling.
-
-They all generate in the Nether.
-
 ## Dark Amaranth Forests
 
-The Dark Amaranth Forest gives a spooky turn on some parts of your end-game exploration. Filled with **tall amaranth fungi**, this forest is home to spiders and cave spiders. The [**dark amaranth hyphae type**](../blocks.md#dark-amaranth) gives a unique dark purple color palette to use in your builds. 🕸️
+<figure><img src="../.gitbook/assets/dark_amaranth_forest.png" alt=""><figcaption><p>In-game screenshot of a dark amaranth forest</p></figcaption></figure>
+
+The Dark Amaranth Forest gives a spookier aspect on some parts of your end-game exploration. Filled with **tall amaranth fungi**, this forest is home to spiders and cave spiders. The [**dark amaranth hyphae type**](../blocks.md#dark-amaranth) gives a unique dark purple color palette to use in your builds. 🕸️
 
 #### Details
 

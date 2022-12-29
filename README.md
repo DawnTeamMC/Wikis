@@ -3,8 +3,8 @@ description: >-
   Promenade is a mod for the latest version of Minecraft that adds a ton of
   features to the game related to exploration, diversity and will improve the
   beauty of you world.
-cover: .gitbook/assets/pink_cherry_oak_forest.png
-coverY: 35.8041958041958
+cover: .gitbook/assets/carnelian_treeway.png
+coverY: 228.78093492208984
 layout: landing
 ---
 
@@ -13,7 +13,7 @@ layout: landing
 {% hint style="info" %}
 This wiki contains information about the latest version of Promenade:
 
-v**2.7.0** for **Minecraft 1.19**.
+v**3.0.0** for **Minecraft 1.19.3**
 {% endhint %}
 
 ## Content
