@@ -8,22 +8,24 @@
 You can change the natural spawning frequency of any biome in the mod's configuration.
 {% endhint %}
 
-## Cherry Oak Forests
+## Sakura Groves
 
-Inspired by the beautiful and worldwide-known sakura trees (or cherry blossoms), this flourishing pink and white biome is a peaceful home to the new [**cherry oak wood type**](../blocks.md#cherry-oak) and japanese-inspired natural decoration. 🌸
+Inspired by the beautiful and worldwide-known sakura trees (or cherry blossoms), this flourishing pink and white biome is a peaceful home to the new [**sakura wood type**](../blocks.md#cherry-oak) and japanese-inspired natural decoration. 🌸
 
-<figure><img src="../.gitbook/assets/pink_cherry_oak_forest.png" alt=""><figcaption><p>In-game screenshot of a pink cherry oak forest</p></figcaption></figure>
+These biomes also feature a brand new soundtrack: ["**Brise couleur pastel**" by **LudoCrypt**](../soundtrack.md#brise-couleur-pastel).
+
+<figure><img src="../.gitbook/assets/blush_sakura_grove.png" alt=""><figcaption><p>In-game screenshot of a pink cherry oak forest</p></figcaption></figure>
 
 #### Details
 
 There are 2 variants of this biome:
 
-* **Pink Cherry Oak Forest** (`promenade:pink_cherry_oak_forest`)
+* **Blush Sakura Grove** (`promenade:blush_sakura_grove`)
   * Has more pink trees than white trees.
-  * Has patches of pink leaf piles.
-* **White Cherry Oak Forest** (`promenade:white_cherry_oak_forest`)
+  * Has patches of pink blossom piles.
+* **Cotton Sakura Grove** (`promenade:cotton_sakura_grove`)
   * Has more white trees than pink trees.
-  * Has patches of white leaf piles.
+  * Has patches of white blossom piles.
 
 They both generate in the Overworld as frequently as normal forests, but this frequency can be changed in the mod's configuration.
 
@@ -40,6 +42,27 @@ There is only 1 variant of this biome:
 * **Carnelian Treeway** (`promenade:carnelian_treeway`)
 
 It generates in the Overworld as frequently as normal forests, but this frequency can be changed in the mod's configuration.
+
+## Glacarian Taiga
+
+<figure><img src="../.gitbook/assets/glacarian_taiga.png" alt=""><figcaption><p>In-game screenshot of a glacarian taiga</p></figcaption></figure>
+
+Welcome the snowiest and coldest biome of Minecraft! \
+The glacarian taiga features massive snowy spruce trees and layers upon layers of snow. You can also find patches of packed ice underground, or slide on some as they cover the surface of lakes and rivers. ❄
+
+{% hint style="danger" %}
+WARNING TO ALL TRAVELERS:
+
+It has been found out that snowstorms in this biome can get extreme very quickly. Proceed with caution and take shelter the moment you see some snow falling.
+{% endhint %}
+
+#### Details
+
+There is only 1 variant of this biome:
+
+* **Glacarian Taiga** (`promenade:glacarian_taiga`)
+
+It generates in the Overworld and tries to replace a lot of vanilla snowy biomes, but this frequency can be changed in the mod's configuration.
 
 ## Dark Amaranth Forests
 

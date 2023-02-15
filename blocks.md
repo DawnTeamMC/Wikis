@@ -2,11 +2,11 @@
 
 ## Wood/Hyphae
 
-### Cherry Oak
+### Sakura
 
-<figure><img src=".gitbook/assets/cherry_oak_wood.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/sakura_wood.png" alt=""><figcaption></figcaption></figure>
 
-This japanese-styled wood can be collected from [**cherry oak trees**](world-generation/biomes.md#cherry-oak-forests). 🌸
+This japanese-styled wood can be collected from [**sakura trees**](world-generation/biomes.md#sakura-groves). 🌸
 
 ### Maple
 
@@ -31,3 +31,13 @@ This purple venous hyphae can be collected from [**huge dark amaranth fungi**](w
 ### Piles
 
 Flower and Leaf Piles are small carpet-like blocks that can be found in some biomes or can be crafted with 3 flowers or 3 leaves blocks. 🍃
+
+## Other
+
+### Moai
+
+Inspired by the [moai statues](https://en.wikipedia.org/wiki/Moai), the moai block obtained through cutting a tuff block with a stonecutter. 🗿
+
+The moai can be oriented horizontally and can be made taller by stacking one above or below another.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>🗿🗿🗿</p></figcaption></figure>

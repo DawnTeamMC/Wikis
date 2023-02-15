@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🏠 Home](README.md)
+* [🎶 Soundtrack](soundtrack.md)
 * [🌳 World Generation](world-generation/README.md)
   * [Biomes](world-generation/biomes.md)
   * [Structures](world-generation/structures.md)
