@@ -40,4 +40,18 @@ Inspired by the [moai statues](https://en.wikipedia.org/wiki/Moai), the moai blo
 
 The moai can be oriented horizontally and can be made taller by stacking one above or below another.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>🗿🗿🗿</p></figcaption></figure>
+You can also wear a moai on your head. Fabulous. 🗿🗿🗿
+
+<div>
+
+<figure><img src=".gitbook/assets/moai-ingame.png" alt=""><figcaption><p>Tall and small moai in-game</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/moai_small_transparent.png" alt=""><figcaption><p>Small moai</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/moai_tall_transparent.png" alt=""><figcaption><p>Tall moai</p></figcaption></figure>
+
+</div>
